@@ -1,10 +1,6 @@
 <!-- BEGIN_TF_DOCS -->
 <h1 align="center">How to setup EventBridge Pipes to send New DynamoDB Itens do SQS 👋</h1>
 <p>
-  <img alt="Version" src="https://img.shields.io/badge/version-v0.0.1-blue.svg?cacheSeconds=2592000" />
-  <a href="/" target="\_blank">
-    <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
-  </a>
   <a href="/LICENSE " target="\_blank">
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
   </a>
@@ -15,7 +11,8 @@
 
 ### 🏠 [Architecture / Topology](/)
 
-![topology](.github/asserts/scale.png
+![topology](.github/asserts/scale.png)
+
 ## DynamoDB Stream Event Example
 
 ```json
